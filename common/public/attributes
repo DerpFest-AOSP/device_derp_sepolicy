@@ -1,6 +1,7 @@
 # HALs
 hal_attribute_derp(lineage_camera_motor)
 hal_attribute_derp(lineage_fod)
+hal_attribute_derp(lineage_livedisplay)
 hal_attribute_derp(lineage_touch)
 hal_attribute_derp(lineage_trust)
 hal_attribute_derp(lineage_powershare)
