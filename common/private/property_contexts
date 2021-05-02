@@ -10,3 +10,6 @@ persist.vendor.recovery_update         u:object_r:recovery_update_prop:s0
 
 # Wi-Fi Display
 media.wfd.                             u:object_r:media_wfd_prop:s0
+
+# Global cleartext feature
+persist.sys.global.cleartext           u:object_r:system_exported_cleartext_prop:s0 exact int
