@@ -3,3 +3,6 @@ system_internal_prop(recovery_update_prop)
 
 # Wi-Fi Display
 system_public_prop(media_wfd_prop);
+
+# Global cleartext feature
+system_restricted_prop(system_exported_cleartext_prop);
