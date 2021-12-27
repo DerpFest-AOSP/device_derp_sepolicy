@@ -16,3 +16,6 @@ persist.vendor.recovery_update         u:object_r:recovery_update_prop:s0
 
 # xtra-daemon control
 persist.sys.xtra-daemon.enabled        u:object_r:xtra_control_prop:s0 exact bool
+
+# Wi-Fi Display
+media.wfd.                             u:object_r:media_wfd_prop:s0
