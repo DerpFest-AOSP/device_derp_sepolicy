@@ -4,3 +4,6 @@ lineagelivedisplay                        u:object_r:lineage_livedisplay_service
 
 adbroot_service                           u:object_r:adbroot_service:s0
 parallel                                  u:object_r:parallel_space_manager_service:s0
+
+# App lock
+app_lock                                  u:object_r:app_lock_service:s0
