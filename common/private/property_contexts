@@ -10,3 +10,6 @@ persist.vendor.recovery_update         u:object_r:recovery_update_prop:s0
 
 # Wi-Fi Display
 media.wfd.                             u:object_r:media_wfd_prop:s0
+
+# Powerusage provider
+persist.powerusage_provider_google     u:object_r:exported_system_prop:s0
