@@ -11,6 +11,3 @@ set_prop(system_app, recovery_update_prop)
 
 # Read selinux status
 allow system_app selinuxfs:file r_file_perms;
-
-# Allow settings to set some system props
-set_prop(system_app, exported_system_prop)
