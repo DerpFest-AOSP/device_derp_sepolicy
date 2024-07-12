@@ -28,3 +28,6 @@ media.wfd.                             u:object_r:media_wfd_prop:s0
 
 # Global cleartext feature
 persist.sys.global.cleartext           u:object_r:system_exported_cleartext_prop:s0 exact int
+
+# Screen mirroring disablement
+persist.sysui.disable_mirroring_confirmation_dialog u:object_r:hdmi_config_prop:s0
